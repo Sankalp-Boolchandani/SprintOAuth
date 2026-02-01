@@ -1,0 +1,2 @@
+- starting the application initially failed because no properties were found in props.
+- after adding the oauth props, application started successfully
